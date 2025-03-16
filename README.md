@@ -28,6 +28,6 @@ Ao fazer um bom trabalho você será promovido, por tanto, se dedique!
 **Contribua com o projeto:** Crie sua Branch, ajuste o prompt e gere novos resultados! ✨
 <br>
 
-<a href="https://github.com/MariWB/Relatorio-IA.git" target="_blank">
-  <code>https://github.com/MariWB/Relatorio-IA.git 🔗</code>
-</a>
+```
+https://github.com/MariWB/Relatorio-IA.git
+```
